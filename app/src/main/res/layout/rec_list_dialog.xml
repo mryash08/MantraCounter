@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/whitecolor"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/dialog_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="@string/select_audio_file_title"
+            android:textColor="#400"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame_red"
+            android:ems="6"
+            android:text="@string/set"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/whitecolor" />
+
+        <Button
+            android:id="@+id/play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame_red"
+            android:ems="6"
+            android:text="@string/play"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/whitecolor" />
+
+        <Button
+            android:id="@+id/rename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame_red"
+            android:ems="6"
+            android:text="@string/rename"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/whitecolor" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame_red"
+            android:ems="6"
+            android:text="@string/delete"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/whitecolor" />
+    </LinearLayout>
+</RelativeLayout>

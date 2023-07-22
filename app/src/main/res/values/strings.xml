@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Mantra Counter</string>
+
+    <string name="reminder">Daily Reminder</string>
+
+    <string name="About_App">About us</string>
+    <string name="CongoMsg">Congratulations Target is Achieved.</string>
+    <string name="Exit">Exit App ?</string>
+    <string name="No">No</string>
+    <string name="VibOff">Vibrate off</string>
+    <string name="Vibon">Vibrate on</string>
+    <string name="Yes">Yes</string>
+
+    <string name="count">Mantra Chanting</string>
+    <string name="crop__cancel">CANCEL</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="default_web_client_id">485600442373-r6tl5j21cr5v4t2jfc7ronjmlcab8kf3.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="dt">Date</string>
+
+    <string name="mantralist">Mantra List</string>
+    <string name="moreapps">More Apps</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="none">None</string>
+    <string name="notarget_hint">0 = no target</string>
+    <string name="notprime">You are not Prime User !</string>
+    <string name="ok">Okay</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_audio_file_title">Choose a File and Learn to Play.</string>
+    <string name="set">Set This</string>
+    <string name="setting">Settings</string>
+    <string name="share">Share with friends</string>
+    <string name="show">Show</string>
+    <string name="simpleMode">Simple Mode</string>
+    <string name="soundOff">Sound off</string>
+    <string name="soundOn">Sound on</string>
+    <string name="yes">Yes</string>
+    <string name="pdfsaved">Graph PDF Saved !</string>
+    <string name="total">Total</string>
+    <string name="videoisstarting">Video is Starting</string>
+    <string name="permission_msg">Allow Permission to move further</string>
+    <string name="permission_title">&lt;string name=\"permission_title\"&gt;Permission Require&lt;/string&gt;</string>
+    <string name="long_press_reset">Long press to Reset</string>
+    <string name="undo_success">Undo Success !</string>
+    <string name="reset_complete">Reset Complete</string>
+    <string name="taponscreen">Tap anywhere on screen</string>
+
+    <string name="target_txt">Target</string>
+    <string name="target">Enter Target Count</string>
+    <string name="rate_5star">Rate 5★(Star) on google play.. ?</string>
+    <string name="longClickToImage">Long click on image to change Image.</string>
+    <string name="tosetthistheme">Set Theme</string>
+    <string name="tosetthisthemeyouhavetoseevideo">To set theme you have to see Video Ad ?</string>
+
+
+
+    <string name="rename">Rename</string>
+    <string name="prime">You are Prime User !</string>
+    <string name="hide">Show or Hide Options on Screen</string>
+    <string name="help">http://sweetedge.in/app_videos_pages/help_mantracounter.html</string>
+    <string name="recordMantra">Record Your Mantra</string>
+    <string name="play">Play</string>
+
+
+</resources>
